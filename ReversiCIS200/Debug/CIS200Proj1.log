@@ -1,0 +1,3 @@
+﻿  Reversi.cpp
+C:\Users\annam\source\repos\ReversiCIS200\Reversi.cpp(53): warning C4715: 'Reversi::count': not all control paths return a value
+  CIS200Proj1.vcxproj -> C:\Users\annam\source\repos\ReversiCIS200\Debug\CIS200Proj1.exe
