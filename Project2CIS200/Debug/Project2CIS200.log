@@ -1,0 +1,17 @@
+﻿  Stack.cpp
+C:\Users\annam\source\repos\Project2CIS200\Stack.cpp(44,24): warning C4305: 'argument': truncation from 'double' to 'ItemType'
+          with
+          [
+              ItemType=float
+          ]
+C:\Users\annam\source\repos\Project2CIS200\Stack.cpp(46,24): warning C4305: 'argument': truncation from 'double' to 'ItemType'
+          with
+          [
+              ItemType=float
+          ]
+C:\Users\annam\source\repos\Project2CIS200\Stack.cpp(47,24): warning C4305: 'argument': truncation from 'double' to 'ItemType'
+          with
+          [
+              ItemType=float
+          ]
+  Project2CIS200.vcxproj -> C:\Users\annam\source\repos\Project2CIS200\Debug\Project2CIS200.exe
